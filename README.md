@@ -1,4 +1,4 @@
-[project-logo](/assets/project_logo.png)
+![project-logo](/assets/project_logo.png)
 
 # OpenOS - A Simple Operating System
 
