@@ -1,5 +1,6 @@
+[project-logo](/assets/project_logo.png)
 
-# Simple Operating System
+# OpenOS - A Simple Operating System
 
 This repository contains the source code for a simple operating system, designed as an educational project to understand the fundamentals of OS development.
 
